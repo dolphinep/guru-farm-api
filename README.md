@@ -6,4 +6,4 @@ clone project firt
 >>git checkout -b devloper
 
 ก่อน push ต้อง
-git push -u origin developer
+>>git push -u origin developer
